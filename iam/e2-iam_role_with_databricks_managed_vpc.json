@@ -23,7 +23,7 @@
 			"Type": "String"
 		},
 		"OwnerTagValue": {
-			"Default": "abhinav.garg@databricks.com",
+			"Default": "priyal.chindarkar@databricks.com",
 			"Description": "Value for the owner tag",
 			"Type": "String"
 		}
